@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shriya Pandey
 - 👀 I’m interested in software development and learning ML currently.
-- 🌱 You can currently find my respitory on coursera webD course.
+- 🌱 You can currently find some of my work here.
 thankyou.
 
 <!---
